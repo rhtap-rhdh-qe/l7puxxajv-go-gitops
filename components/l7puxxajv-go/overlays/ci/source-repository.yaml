@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l7puxxajv-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l7puxxajv-go
